@@ -1,0 +1,12 @@
+{
+    "name": "quantalon/qtl-trading-calendar",
+    "description": "qtl trading calendar",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Quantalon\\QtlTradingCalendar\\": "src/"
+        }
+    },
+    "require": {}
+}
